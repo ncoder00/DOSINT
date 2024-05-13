@@ -2,3 +2,7 @@ env/
 *.pyc
 __pycache__/
 api_keys.env
+comptest.py
+formatting copy.py
+oldmain.py
+test.py
